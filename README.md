@@ -1,2 +1,0 @@
-# penurunan-tunggal
-pewarisan tunggal
